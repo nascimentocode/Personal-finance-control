@@ -25,17 +25,22 @@ Um projeto de controle de finanças pessoais via terminal, desenvolvido em Pytho
    git clone https://github.com/seu-usuario/controle-financas.git
    cd controle-financas
    ```
-2. Crie um ambiente virtual e ative-o:
+   Ou, se preferir clonar com chave SSH:
+   ```sh
+   git clone git@github.com:seu-usuario/controle-financas.git
+   cd controle-financas
+   ```
+3. Crie um ambiente virtual e ative-o:
    ```sh
    python -m venv venv
    source venv/bin/activate  # Linux/macOS
    venv\Scripts\activate  # Windows
    ```
-3. Instale as dependências:
+4. Instale as dependências:
    ```sh
    pip install -r requirements.txt
    ```
-4. Execute o programa:
+5. Execute o programa:
    ```sh
    python templates.py
    ```
