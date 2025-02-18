@@ -22,13 +22,15 @@ Um projeto de controle de finanças pessoais via terminal, desenvolvido em Pytho
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/controle-financas.git
-   cd controle-financas
+   git clone https://github.com/nascimentocode/Personal-finance-control.git
    ```
    Ou, se preferir clonar com chave SSH:
    ```sh
-   git clone git@github.com:seu-usuario/controle-financas.git
-   cd controle-financas
+   git clone git@github.com:nascimentocode/Personal-finance-control.git
+   ```
+2. Navegue ate o projeto
+   ```sh
+   cd Personal-finance-control
    ```
 3. Crie um ambiente virtual e ative-o:
    ```sh
@@ -88,8 +90,3 @@ Sinta-se à vontade para contribuir com o projeto! Basta seguir os passos:
 ## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
----
-
-Desenvolvido por [Seu Nome].
-
