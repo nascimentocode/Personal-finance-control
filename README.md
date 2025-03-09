@@ -1,6 +1,6 @@
 # Controle de Finanças Pessoais
 
-Um projeto de controle de finanças pessoais via terminal, desenvolvido em Python puro, utilizando a arquitetura MVT (Model-View-Template).
+Um projeto de controle de finanças pessoais via terminal, desenvolvido em Python puro, utilizando a arquitetura MVT (Model-View-Template). 
 Este projeto foi desenvolvido durante a imersão "4 Days 4 Projects - Edição 2" da Pythonando.
 
 ## Funcionalidades
