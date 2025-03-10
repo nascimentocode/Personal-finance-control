@@ -88,6 +88,6 @@ Sinta-se à vontade para contribuir com o projeto! Basta seguir os passos:
 2. Crie uma branch para sua funcionalidade ou correção.
 3. Envie um pull request com suas alterações.
 
-## Licença
+## 📝 **Licença**
 
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto foi desenvolvido durante a imersão **"4 Days 4 Projects - Edição 2" da Pythonando** e está disponível apenas para fins de estudo.
